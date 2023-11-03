@@ -1,0 +1,20 @@
+frontend-> any designing of webstie or application etc...
+
+1. html
+2. css
+3. Js(JavaScript)
+4. Bootstrap
+5. JQuery
+
+1. html --> hyper text markup language.
+is the standard markup language used for creating web pages.
+html elements tell the browsers how to display the contents.
+
+<html> : root element of an page.
+<head> : element contains meta information about the html page.
+<title> : title for the html page.
+<h1>to<h6> : this all are heading tags h1 is large tag and h6 is small tag.
+
+
+1. absolute url : links to an external images that is hosted on another website.
+2. Relative Path : links to an images that is hosted within the website.
